@@ -1,0 +1,3 @@
+/home/pennywise/Desktop/Chip-8/build/CMakeFiles/Chip_8.dir
+/home/pennywise/Desktop/Chip-8/build/CMakeFiles/edit_cache.dir
+/home/pennywise/Desktop/Chip-8/build/CMakeFiles/rebuild_cache.dir

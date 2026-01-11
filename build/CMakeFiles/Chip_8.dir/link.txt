@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/Chip_8.dir/main.c.o CMakeFiles/Chip_8.dir/chip8.c.o CMakeFiles/Chip_8.dir/instruction.c.o CMakeFiles/Chip_8.dir/emulator.c.o CMakeFiles/Chip_8.dir/screen.c.o -o Chip_8  /usr/lib/x86_64-linux-gnu/libSDL2.so 
